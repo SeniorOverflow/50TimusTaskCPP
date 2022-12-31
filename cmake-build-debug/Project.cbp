@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Task49\;CMake Files\Task41\;CMake Files\Task22\;CMake Files\Task50\;CMake Files\Task26\;CMake Files\Task11\;CMake Files\Task5\;CMake Files\Task23\;CMake Files\Task39\;CMake Files\Task14\;CMake Files\Task27\;CMake Files\Task3\;CMake Files\Task19\;CMake Files\Task43\;CMake Files\Task15\;CMake Files\Task12\;CMake Files\Task16\;CMake Files\Task45\;CMake Files\Task24\;CMake Files\Task47\;CMake Files\Task28\;CMake Files\Task33\;CMake Files\Task8\;CMake Files\Task42\;CMake Files\Task30\;CMake Files\Task17\;CMake Files\Task48\;CMake Files\Task9\;CMake Files\Task20\;CMake Files\Task40\;CMake Files\Task29\;CMake Files\Task36\;CMake Files\Task31\;CMake Files\Task32\;CMake Files\Task38\;CMake Files\Task1\;CMake Files\Task21\;CMake Files\Task6\;CMake Files\Task7\;CMake Files\Task10\;CMake Files\Task34\;CMake Files\Task46\;CMake Files\Task25\;CMake Files\Task2\;CMake Files\Task44\;CMake Files\Task13\;CMake Files\Task35\;CMake Files\Task4\;CMake Files\Task18\;CMake Files\Task37\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1731_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/50TaskTimus_1731_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 50TaskTimus_1731_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1731_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/50TaskTimus_1731_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 50TaskTimus_1731_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2018_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/50TaskTimus_2018_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 50TaskTimus_2018_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2018_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/50TaskTimus_2018_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 50TaskTimus_2018_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1214_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/50TaskTimus_1214_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 50TaskTimus_1214_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1214_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/50TaskTimus_1214_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 50TaskTimus_1214_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2138_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/50TaskTimus_2138_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 50TaskTimus_2138_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2138_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/50TaskTimus_2138_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 50TaskTimus_2138_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1118_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/50TaskTimus_1118_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 50TaskTimus_1118_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1118_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/50TaskTimus_1118_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 50TaskTimus_1118_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1786_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/50TaskTimus_1786_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 50TaskTimus_1786_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1786_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/50TaskTimus_1786_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 50TaskTimus_1786_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1796_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/50TaskTimus_1796_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 50TaskTimus_1796_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1796_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/50TaskTimus_1796_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 50TaskTimus_1796_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1353_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/50TaskTimus_1353_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 50TaskTimus_1353_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1353_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/50TaskTimus_1353_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 50TaskTimus_1353_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1573_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/50TaskTimus_1573_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 50TaskTimus_1573_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1573_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/50TaskTimus_1573_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 50TaskTimus_1573_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1902_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/50TaskTimus_1902_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 50TaskTimus_1902_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1902_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/50TaskTimus_1902_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 50TaskTimus_1902_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1086_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/50TaskTimus_1086_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 50TaskTimus_1086_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1086_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/50TaskTimus_1086_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 50TaskTimus_1086_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1228_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/50TaskTimus_1228_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 50TaskTimus_1228_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1228_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/50TaskTimus_1228_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 50TaskTimus_1228_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2033_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/50TaskTimus_2033_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 50TaskTimus_2033_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2033_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/50TaskTimus_2033_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 50TaskTimus_2033_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1192_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/50TaskTimus_1192_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 50TaskTimus_1192_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1192_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/50TaskTimus_1192_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 50TaskTimus_1192_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1226_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/50TaskTimus_1226_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 50TaskTimus_1226_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1226_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/50TaskTimus_1226_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 50TaskTimus_1226_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1260_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/50TaskTimus_1260_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 50TaskTimus_1260_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1260_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/50TaskTimus_1260_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 50TaskTimus_1260_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1494_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/50TaskTimus_1494_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 50TaskTimus_1494_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1494_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/50TaskTimus_1494_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 50TaskTimus_1494_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2142_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/50TaskTimus_2142_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 50TaskTimus_2142_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2142_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/50TaskTimus_2142_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 50TaskTimus_2142_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1219_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/50TaskTimus_1219_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 50TaskTimus_1219_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1219_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/50TaskTimus_1219_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 50TaskTimus_1219_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1582_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/50TaskTimus_1582_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 50TaskTimus_1582_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1582_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/50TaskTimus_1582_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 50TaskTimus_1582_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1777_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/50TaskTimus_1777_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 50TaskTimus_1777_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1777_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/50TaskTimus_1777_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 50TaskTimus_1777_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1044_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/50TaskTimus_1044_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 50TaskTimus_1044_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1044_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/50TaskTimus_1044_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 50TaskTimus_1044_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1123_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/50TaskTimus_1123_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 50TaskTimus_1123_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1123_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/50TaskTimus_1123_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 50TaskTimus_1123_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1283_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/50TaskTimus_1283_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 50TaskTimus_1283_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1283_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/50TaskTimus_1283_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 50TaskTimus_1283_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2010_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/50TaskTimus_2010_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 50TaskTimus_2010_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2010_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/50TaskTimus_2010_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 50TaskTimus_2010_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1082_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/50TaskTimus_1082_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 50TaskTimus_1082_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1082_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/50TaskTimus_1082_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 50TaskTimus_1082_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1206_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/50TaskTimus_1206_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 50TaskTimus_1206_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1206_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/50TaskTimus_1206_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 50TaskTimus_1206_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1336_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/50TaskTimus_1336_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 50TaskTimus_1336_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1336_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/50TaskTimus_1336_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 50TaskTimus_1336_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1671_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/50TaskTimus_1671_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 50TaskTimus_1671_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1671_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/50TaskTimus_1671_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 50TaskTimus_1671_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1402_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/50TaskTimus_1402_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 50TaskTimus_1402_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1402_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/50TaskTimus_1402_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 50TaskTimus_1402_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1688_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/50TaskTimus_1688_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 50TaskTimus_1688_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1688_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/50TaskTimus_1688_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 50TaskTimus_1688_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1711_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/50TaskTimus_1711_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 50TaskTimus_1711_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1711_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/50TaskTimus_1711_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 50TaskTimus_1711_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1352_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/50TaskTimus_1352_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 50TaskTimus_1352_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1352_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/50TaskTimus_1352_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 50TaskTimus_1352_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1982_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/50TaskTimus_1982_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 50TaskTimus_1982_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1982_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/50TaskTimus_1982_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 50TaskTimus_1982_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2102_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/50TaskTimus_2102_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 50TaskTimus_2102_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2102_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/50TaskTimus_2102_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 50TaskTimus_2102_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1683_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/50TaskTimus_1683_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 50TaskTimus_1683_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1683_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/50TaskTimus_1683_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 50TaskTimus_1683_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2149_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/50TaskTimus_2149_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 50TaskTimus_2149_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2149_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/50TaskTimus_2149_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 50TaskTimus_2149_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1725_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/50TaskTimus_1725_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 50TaskTimus_1725_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1725_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/50TaskTimus_1725_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 50TaskTimus_1725_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1167_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/50TaskTimus_1167_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 50TaskTimus_1167_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1167_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/50TaskTimus_1167_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 50TaskTimus_1167_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1613_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/50TaskTimus_1613_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 50TaskTimus_1613_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1613_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/50TaskTimus_1613_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 50TaskTimus_1613_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1022_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/50TaskTimus_1022_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 50TaskTimus_1022_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1022_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/50TaskTimus_1022_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 50TaskTimus_1022_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1354_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/50TaskTimus_1354_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 50TaskTimus_1354_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1354_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/50TaskTimus_1354_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 50TaskTimus_1354_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1222_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/50TaskTimus_1222_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 50TaskTimus_1222_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1222_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/50TaskTimus_1222_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 50TaskTimus_1222_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2020_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/50TaskTimus_2020_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 50TaskTimus_2020_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2020_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/50TaskTimus_2020_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 50TaskTimus_2020_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1280_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/50TaskTimus_1280_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 50TaskTimus_1280_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1280_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/50TaskTimus_1280_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 50TaskTimus_1280_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2000_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/50TaskTimus_2000_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 50TaskTimus_2000_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_2000_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/50TaskTimus_2000_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 50TaskTimus_2000_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1306_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/50TaskTimus_1306_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 50TaskTimus_1306_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1306_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/50TaskTimus_1306_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 50TaskTimus_1306_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1572_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/50TaskTimus_1572_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 50TaskTimus_1572_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1572_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/50TaskTimus_1572_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 50TaskTimus_1572_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1021_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/50TaskTimus_1021_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 50TaskTimus_1021_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1021_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/50TaskTimus_1021_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 50TaskTimus_1021_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1073_CPP">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/50TaskTimus_1073_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 50TaskTimus_1073_CPP"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="50TaskTimus_1073_CPP/fast">
+				<Option output="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/50TaskTimus_1073_CPP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 50TaskTimus_1073_CPP/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1/main.cpp">
+			<Option target="50TaskTimus_1731_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task10/main.cpp">
+			<Option target="50TaskTimus_1902_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task11/main.cpp">
+			<Option target="50TaskTimus_1086_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task12/main.cpp">
+			<Option target="50TaskTimus_1228_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task13/main.cpp">
+			<Option target="50TaskTimus_2033_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task14/main.cpp">
+			<Option target="50TaskTimus_1192_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task15/main.cpp">
+			<Option target="50TaskTimus_1226_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task16/main.cpp">
+			<Option target="50TaskTimus_1260_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task17/main.cpp">
+			<Option target="50TaskTimus_1494_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task18/main.cpp">
+			<Option target="50TaskTimus_2142_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task19/main.cpp">
+			<Option target="50TaskTimus_1219_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2/main.cpp">
+			<Option target="50TaskTimus_2018_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task20/main.cpp">
+			<Option target="50TaskTimus_1582_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task21/main.cpp">
+			<Option target="50TaskTimus_1777_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task22/main.cpp">
+			<Option target="50TaskTimus_1044_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task23/main.cpp">
+			<Option target="50TaskTimus_1123_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task24/main.cpp">
+			<Option target="50TaskTimus_1283_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task25/main.cpp">
+			<Option target="50TaskTimus_2010_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task26/main.cpp">
+			<Option target="50TaskTimus_1082_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task27/main.cpp">
+			<Option target="50TaskTimus_1206_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task28/main.cpp">
+			<Option target="50TaskTimus_1336_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task29/main.cpp">
+			<Option target="50TaskTimus_1671_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3/main.cpp">
+			<Option target="50TaskTimus_1214_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task30/main.cpp">
+			<Option target="50TaskTimus_1402_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task31/main.cpp">
+			<Option target="50TaskTimus_1688_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task32/main.cpp">
+			<Option target="50TaskTimus_1711_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task33/main.cpp">
+			<Option target="50TaskTimus_1352_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task34/main.cpp">
+			<Option target="50TaskTimus_1982_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task35/main.cpp">
+			<Option target="50TaskTimus_2102_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task36/main.cpp">
+			<Option target="50TaskTimus_1683_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task37/main.cpp">
+			<Option target="50TaskTimus_2149_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task38/main.cpp">
+			<Option target="50TaskTimus_1725_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task39/main.cpp">
+			<Option target="50TaskTimus_1167_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4/main.cpp">
+			<Option target="50TaskTimus_2138_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task40/main.cpp">
+			<Option target="50TaskTimus_1613_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task41/main.cpp">
+			<Option target="50TaskTimus_1022_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task42/main.cpp">
+			<Option target="50TaskTimus_1354_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task43/main.cpp">
+			<Option target="50TaskTimus_1222_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task44/main.cpp">
+			<Option target="50TaskTimus_2020_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task45/main.cpp">
+			<Option target="50TaskTimus_1280_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task46/main.cpp">
+			<Option target="50TaskTimus_2000_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task47/main.cpp">
+			<Option target="50TaskTimus_1306_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task48/main.cpp">
+			<Option target="50TaskTimus_1572_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task49/main.cpp">
+			<Option target="50TaskTimus_1021_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task5/main.cpp">
+			<Option target="50TaskTimus_1118_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task50/main.cpp">
+			<Option target="50TaskTimus_1073_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task6/main.cpp">
+			<Option target="50TaskTimus_1786_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task7/main.cpp">
+			<Option target="50TaskTimus_1796_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task8/main.cpp">
+			<Option target="50TaskTimus_1353_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task9/main.cpp">
+			<Option target="50TaskTimus_1573_CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task49/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task49\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task41/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task41\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task22/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task22\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task50/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task50\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task26/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task26\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task11/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task11\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task5\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task23\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task39/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task39\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task14/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task14\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task27/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task27\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task3\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task19/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task19\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task43/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task43\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task15/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task15\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task12/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task12\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task16/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task16\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task45/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task45\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task24/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task24\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task47/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task47\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task28/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task28\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task33/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task33\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task8\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task42/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task42\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task30/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task30\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task17/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task17\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task48/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task48\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task9\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task20/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task20\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task40/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task40\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task29/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task29\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task36/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task36\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task31/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task31\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task32/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task32\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task38/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task38\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task1\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task21/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task21\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task6\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task7\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task10\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task34/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task34\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task46/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task46\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task25/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task25\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task2\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task44/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task44\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task13/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task13\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task35/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task35\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task4\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task18/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task18\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task37/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task37\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
