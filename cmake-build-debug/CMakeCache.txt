@@ -569,6 +569,414 @@ Project_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-d
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP
 
+//Value Computed by CMake
+Task10_Timus_1902_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task10
+
+//Value Computed by CMake
+Task10_Timus_1902_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task10
+
+//Value Computed by CMake
+Task11_Timus_1086_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task11
+
+//Value Computed by CMake
+Task11_Timus_1086_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task11
+
+//Value Computed by CMake
+Task12_Timus_1228_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12
+
+//Value Computed by CMake
+Task12_Timus_1228_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task12
+
+//Value Computed by CMake
+Task12_Timus_1228_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task12
+
+//Value Computed by CMake
+Task12_Timus_1228_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task12
+
+//Value Computed by CMake
+Task13_Timus_2033_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13
+
+//Value Computed by CMake
+Task13_Timus_2033_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task13
+
+//Value Computed by CMake
+Task13_Timus_2033_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task13
+
+//Value Computed by CMake
+Task13_Timus_2033_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task13
+
+//Value Computed by CMake
+Task14_Timus_1192_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14
+
+//Value Computed by CMake
+Task14_Timus_1192_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task14
+
+//Value Computed by CMake
+Task14_Timus_1192_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task14
+
+//Value Computed by CMake
+Task14_Timus_1192_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task14
+
+//Value Computed by CMake
+Task15_Timus_1226_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15
+
+//Value Computed by CMake
+Task15_Timus_1226_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task15
+
+//Value Computed by CMake
+Task15_Timus_1226_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task15
+
+//Value Computed by CMake
+Task15_Timus_1226_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task15
+
+//Value Computed by CMake
+Task16_Timus_1260_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16
+
+//Value Computed by CMake
+Task16_Timus_1260_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task16
+
+//Value Computed by CMake
+Task16_Timus_1260_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task16
+
+//Value Computed by CMake
+Task16_Timus_1260_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task16
+
+//Value Computed by CMake
+Task17_Timus_1494_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17
+
+//Value Computed by CMake
+Task17_Timus_1494_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task17
+
+//Value Computed by CMake
+Task17_Timus_1494_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task17
+
+//Value Computed by CMake
+Task17_Timus_1494_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task17
+
+//Value Computed by CMake
+Task18_Timus_2142_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18
+
+//Value Computed by CMake
+Task18_Timus_2142_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task18
+
+//Value Computed by CMake
+Task18_Timus_2142_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task18
+
+//Value Computed by CMake
+Task18_Timus_2142_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task18
+
+//Value Computed by CMake
+Task19_Timus_1219_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19
+
+//Value Computed by CMake
+Task19_Timus_1219_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task19
+
+//Value Computed by CMake
+Task19_Timus_1219_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task19
+
+//Value Computed by CMake
+Task19_Timus_1219_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task19
+
+//Value Computed by CMake
+Task1_50TaskTimus_1731_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1
+
+//Value Computed by CMake
+Task1_50TaskTimus_1731_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1
+
+//Value Computed by CMake
+Task1_Timus_1731_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task1
+
+//Value Computed by CMake
+Task1_Timus_1731_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1
+
+//Value Computed by CMake
+Task20_Timus_1582_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20
+
+//Value Computed by CMake
+Task20_Timus_1582_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task20
+
+//Value Computed by CMake
+Task20_Timus_1582_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task20
+
+//Value Computed by CMake
+Task20_Timus_1582_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task20
+
+//Value Computed by CMake
+Task21_Timus_1777_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21
+
+//Value Computed by CMake
+Task21_Timus_1777_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task21
+
+//Value Computed by CMake
+Task21_Timus_1777_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task21
+
+//Value Computed by CMake
+Task21_Timus_1777_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task21
+
+//Value Computed by CMake
+Task22_Timus_1044_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22
+
+//Value Computed by CMake
+Task22_Timus_1044_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task22
+
+//Value Computed by CMake
+Task22_Timus_1044_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task22
+
+//Value Computed by CMake
+Task22_Timus_1044_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task22
+
+//Value Computed by CMake
+Task24_Timus_1283_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24
+
+//Value Computed by CMake
+Task24_Timus_1283_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task24
+
+//Value Computed by CMake
+Task24_Timus_1283_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task24
+
+//Value Computed by CMake
+Task24_Timus_1283_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task24
+
+//Value Computed by CMake
+Task25_Timus_2010_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25
+
+//Value Computed by CMake
+Task25_Timus_2010_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task25
+
+//Value Computed by CMake
+Task25_Timus_2010_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task25
+
+//Value Computed by CMake
+Task25_Timus_2010_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task25
+
+//Value Computed by CMake
+Task26_Timus_1082_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task26
+
+//Value Computed by CMake
+Task26_Timus_1082_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task26
+
+//Value Computed by CMake
+Task27Timus_1206_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task27
+
+//Value Computed by CMake
+Task27Timus_1206_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task27
+
+//Value Computed by CMake
+Task28Timus_1336_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task28
+
+//Value Computed by CMake
+Task28Timus_1336_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task28
+
+//Value Computed by CMake
+Task29_Timus_1671_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task29
+
+//Value Computed by CMake
+Task29_Timus_1671_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task29
+
+//Value Computed by CMake
+Task2_50TaskTimus_2018_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2
+
+//Value Computed by CMake
+Task2_50TaskTimus_2018_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2
+
+//Value Computed by CMake
+Task2_Timus_2018_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task2
+
+//Value Computed by CMake
+Task2_Timus_2018_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2
+
+//Value Computed by CMake
+Task30Timus_1402_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task30
+
+//Value Computed by CMake
+Task30Timus_1402_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task30
+
+//Value Computed by CMake
+Task31Timus_1688_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task31
+
+//Value Computed by CMake
+Task31Timus_1688_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task31
+
+//Value Computed by CMake
+Task32Timus_1711_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task32
+
+//Value Computed by CMake
+Task32Timus_1711_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task32
+
+//Value Computed by CMake
+Task34_Timus_1982_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task34
+
+//Value Computed by CMake
+Task34_Timus_1982_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task34
+
+//Value Computed by CMake
+Task35_Timus_2102_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task35
+
+//Value Computed by CMake
+Task35_Timus_2102_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task35
+
+//Value Computed by CMake
+Task36_Timus_1683_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task36
+
+//Value Computed by CMake
+Task36_Timus_1683_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task36
+
+//Value Computed by CMake
+Task37_Timus_2149_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task37
+
+//Value Computed by CMake
+Task37_Timus_2149_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task37
+
+//Value Computed by CMake
+Task38_Timus_1725_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task38
+
+//Value Computed by CMake
+Task38_Timus_1725_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task38
+
+//Value Computed by CMake
+Task39_Timus_1167_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task39
+
+//Value Computed by CMake
+Task39_Timus_1167_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task39
+
+//Value Computed by CMake
+Task3_50TaskTimus_1214_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3
+
+//Value Computed by CMake
+Task3_50TaskTimus_1214_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3
+
+//Value Computed by CMake
+Task3_Timus_1214_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task3
+
+//Value Computed by CMake
+Task3_Timus_1214_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3
+
+//Value Computed by CMake
+Task40_Timus_1613_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task40
+
+//Value Computed by CMake
+Task40_Timus_1613_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task40
+
+//Value Computed by CMake
+Task41_Timus_1022_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task41
+
+//Value Computed by CMake
+Task41_Timus_1022_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task41
+
+//Value Computed by CMake
+Task42Timus_1354_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task42
+
+//Value Computed by CMake
+Task42Timus_1354_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task42
+
+//Value Computed by CMake
+Task43_Timus_1222_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task43
+
+//Value Computed by CMake
+Task43_Timus_1222_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task43
+
+//Value Computed by CMake
+Task44_Timus_2020_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task44
+
+//Value Computed by CMake
+Task44_Timus_2020_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task44
+
+//Value Computed by CMake
+Task45_Timus_1280_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task45
+
+//Value Computed by CMake
+Task45_Timus_1280_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task45
+
+//Value Computed by CMake
+Task46_Timus_2000_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task46
+
+//Value Computed by CMake
+Task46_Timus_2000_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task46
+
+//Value Computed by CMake
+Task47_Timus_1306_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task47
+
+//Value Computed by CMake
+Task47_Timus_1306_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task47
+
+//Value Computed by CMake
+Task48_Timus_1572_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task48
+
+//Value Computed by CMake
+Task48_Timus_1572_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task48
+
+//Value Computed by CMake
+Task49_Timus_1021_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task49
+
+//Value Computed by CMake
+Task49_Timus_1021_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task49
+
+//Value Computed by CMake
+Task4_50TaskTimus_2138_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4
+
+//Value Computed by CMake
+Task4_50TaskTimus_2138_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4
+
+//Value Computed by CMake
+Task4_Timus_2138_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task4
+
+//Value Computed by CMake
+Task4_Timus_2138_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4
+
+//Value Computed by CMake
+Task50_Timus_1073_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task50
+
+//Value Computed by CMake
+Task50_Timus_1073_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task50
+
+//Value Computed by CMake
+Task5_Timus_1118_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task5
+
+//Value Computed by CMake
+Task5_Timus_1118_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task5
+
+//Value Computed by CMake
+Task6_Timus_1786_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6
+
+//Value Computed by CMake
+Task6_Timus_1786_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task6
+
+//Value Computed by CMake
+Task7_Timus_1796_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task7
+
+//Value Computed by CMake
+Task7_Timus_1796_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task7
+
+//Value Computed by CMake
+Task8_Timus_1353_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task8
+
+//Value Computed by CMake
+Task8_Timus_1353_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task8
+
+//Value Computed by CMake
+Task9_Timus_1573_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task9
+
+//Value Computed by CMake
+Task9_Timus_1573_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task9
+
+//Value Computed by CMake
+Task_23_Timus_1123_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23
+
+//Value Computed by CMake
+Task_23_Timus_1123_CPP_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task23
+
+//Value Computed by CMake
+Task_23_Timus_1123_CPP_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task23
+
+//Value Computed by CMake
+Task_23_Timus_1123_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task23
+
+//Value Computed by CMake
+Timus_1352_BINARY_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task33
+
+//Value Computed by CMake
+Timus_1352_SOURCE_DIR:STATIC=C:/Users/DonEn/Documents/50TaskTimus_CPP/Task33
+
 
 ########################
 # INTERNAL cache entries

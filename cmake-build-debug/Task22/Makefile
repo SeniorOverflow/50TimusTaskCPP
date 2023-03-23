@@ -116,25 +116,25 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/rule:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/rule
-.PHONY : Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/rule
+Task22/CMakeFiles/Task22_Timus_1044.dir/rule:
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Task22/CMakeFiles/Task22_Timus_1044.dir/rule
+.PHONY : Task22/CMakeFiles/Task22_Timus_1044.dir/rule
 
 # Convenience name for target.
-50TaskTimus_1044_CPP: Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/rule
-.PHONY : 50TaskTimus_1044_CPP
+Task22_Timus_1044: Task22/CMakeFiles/Task22_Timus_1044.dir/rule
+.PHONY : Task22_Timus_1044
 
 # fast build rule for target.
-50TaskTimus_1044_CPP/fast:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\50TaskTimus_1044_CPP.dir\build.make Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/build
-.PHONY : 50TaskTimus_1044_CPP/fast
+Task22_Timus_1044/fast:
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\Task22_Timus_1044.dir\build.make Task22/CMakeFiles/Task22_Timus_1044.dir/build
+.PHONY : Task22_Timus_1044/fast
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
 # target to build an object file
 main.cpp.obj:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\50TaskTimus_1044_CPP.dir\build.make Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/main.cpp.obj
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\Task22_Timus_1044.dir\build.make Task22/CMakeFiles/Task22_Timus_1044.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -142,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\50TaskTimus_1044_CPP.dir\build.make Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/main.cpp.i
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\Task22_Timus_1044.dir\build.make Task22/CMakeFiles/Task22_Timus_1044.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -150,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\50TaskTimus_1044_CPP.dir\build.make Task22/CMakeFiles/50TaskTimus_1044_CPP.dir/main.cpp.s
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task22\CMakeFiles\Task22_Timus_1044.dir\build.make Task22/CMakeFiles/Task22_Timus_1044.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 50TaskTimus_1044_CPP
+	@echo ... Task22_Timus_1044
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

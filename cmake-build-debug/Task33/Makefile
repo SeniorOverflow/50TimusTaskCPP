@@ -64,16 +64,6 @@ CMAKE_BINARY_DIR = C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -83,6 +73,16 @@ rebuild_cache:
 # Special rule for the target rebuild_cache
 rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -116,25 +116,25 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/rule:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/rule
-.PHONY : Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/rule
+Task33/CMakeFiles/Timus_1352.dir/rule:
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Task33/CMakeFiles/Timus_1352.dir/rule
+.PHONY : Task33/CMakeFiles/Timus_1352.dir/rule
 
 # Convenience name for target.
-50TaskTimus_1352_CPP: Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/rule
-.PHONY : 50TaskTimus_1352_CPP
+Timus_1352: Task33/CMakeFiles/Timus_1352.dir/rule
+.PHONY : Timus_1352
 
 # fast build rule for target.
-50TaskTimus_1352_CPP/fast:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\50TaskTimus_1352_CPP.dir\build.make Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/build
-.PHONY : 50TaskTimus_1352_CPP/fast
+Timus_1352/fast:
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\Timus_1352.dir\build.make Task33/CMakeFiles/Timus_1352.dir/build
+.PHONY : Timus_1352/fast
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
 # target to build an object file
 main.cpp.obj:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\50TaskTimus_1352_CPP.dir\build.make Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/main.cpp.obj
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\Timus_1352.dir\build.make Task33/CMakeFiles/Timus_1352.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -142,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\50TaskTimus_1352_CPP.dir\build.make Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/main.cpp.i
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\Timus_1352.dir\build.make Task33/CMakeFiles/Timus_1352.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -150,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\50TaskTimus_1352_CPP.dir\build.make Task33/CMakeFiles/50TaskTimus_1352_CPP.dir/main.cpp.s
+	cd /d C:\Users\DonEn\Documents\50TaskTimus_CPP\cmake-build-debug && $(MAKE) $(MAKESILENT) -f Task33\CMakeFiles\Timus_1352.dir\build.make Task33/CMakeFiles/Timus_1352.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 50TaskTimus_1352_CPP
+	@echo ... Timus_1352
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

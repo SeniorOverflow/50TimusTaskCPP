@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Timus_1352.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Timus_1352.dir/objects.a @CMakeFiles\Timus_1352.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Timus_1352.dir/objects.a -Wl,--no-whole-archive -o Timus_1352.exe -Wl,--out-implib,libTimus_1352.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Timus_1352.dir\linklibs.rsp

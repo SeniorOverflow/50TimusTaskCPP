@@ -5,7 +5,7 @@
 		<Option title="50TaskTimus_1786_CPP"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\Task49\;CMake Files\Task41\;CMake Files\Task22\;CMake Files\Task50\;CMake Files\Task26\;CMake Files\Task11\;CMake Files\Task5\;CMake Files\Task23\;CMake Files\Task39\;CMake Files\Task14\;CMake Files\Task27\;CMake Files\Task3\;CMake Files\Task19\;CMake Files\Task43\;CMake Files\Task15\;CMake Files\Task12\;CMake Files\Task16\;CMake Files\Task45\;CMake Files\Task24\;CMake Files\Task47\;CMake Files\Task28\;CMake Files\Task33\;CMake Files\Task8\;CMake Files\Task42\;CMake Files\Task30\;CMake Files\Task17\;CMake Files\Task48\;CMake Files\Task9\;CMake Files\Task20\;CMake Files\Task40\;CMake Files\Task29\;CMake Files\Task36\;CMake Files\Task31\;CMake Files\Task32\;CMake Files\Task38\;CMake Files\Task1\;CMake Files\Task21\;CMake Files\Task6\;CMake Files\Task7\;CMake Files\Task10\;CMake Files\Task34\;CMake Files\Task46\;CMake Files\Task25\;CMake Files\Task2\;CMake Files\Task44\;CMake Files\Task13\;CMake Files\Task35\;CMake Files\Task4\;CMake Files\Task18\;CMake Files\Task37\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Task49\;CMake Files\Task41\;CMake Files\Task22\;CMake Files\Task50\;CMake Files\Task26\;CMake Files\Task11\;CMake Files\Task23\;CMake Files\Task39\;CMake Files\Task14\;CMake Files\Task27\;CMake Files\Task19\;CMake Files\Task43\;CMake Files\Task15\;CMake Files\Task12\;CMake Files\Task16\;CMake Files\Task45\;CMake Files\Task24\;CMake Files\Task47\;CMake Files\Task28\;CMake Files\Task33\;CMake Files\Task8\;CMake Files\Task42\;CMake Files\Task30\;CMake Files\Task17\;CMake Files\Task48\;CMake Files\Task9\;CMake Files\Task20\;CMake Files\Task40\;CMake Files\Task29\;CMake Files\Task36\;CMake Files\Task31\;CMake Files\Task32\;CMake Files\Task38\;CMake Files\Task21\;CMake Files\Task6\;CMake Files\Task7\;CMake Files\Task10\;CMake Files\Task34\;CMake Files\Task46\;CMake Files\Task25\;CMake Files\Task44\;CMake Files\Task13\;CMake Files\Task35\;CMake Files\Task18\;CMake Files\Task37\;CMake Files\Task1\;CMake Files\Task2\;CMake Files\Task3\;CMake Files\Task4\;CMake Files\Task5\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="C:/Users/DonEn/Documents/50TaskTimus_CPP/cmake-build-debug/Task6"/>
@@ -84,9 +84,6 @@
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task11/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task11\"/>
 		</Unit>
-		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task5/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\Task5\"/>
-		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task23/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task23\"/>
 		</Unit>
@@ -98,9 +95,6 @@
 		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task27/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task27\"/>
-		</Unit>
-		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\Task3\"/>
 		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task19/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task19\"/>
@@ -171,9 +165,6 @@
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task38/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task38\"/>
 		</Unit>
-		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\Task1\"/>
-		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task21/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task21\"/>
 		</Unit>
@@ -195,9 +186,6 @@
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task25/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task25\"/>
 		</Unit>
-		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\Task2\"/>
-		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task44/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task44\"/>
 		</Unit>
@@ -207,14 +195,26 @@
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task35/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task35\"/>
 		</Unit>
-		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\Task4\"/>
-		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task18/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task18\"/>
 		</Unit>
 		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task37/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Task37\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task1\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task2\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task3\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task4\"/>
+		</Unit>
+		<Unit filename="C:/Users/DonEn/Documents/50TaskTimus_CPP/Task5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Task5\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

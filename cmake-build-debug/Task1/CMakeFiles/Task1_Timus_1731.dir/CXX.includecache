@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DonEn/Documents/50TaskTimus_CPP/Task1/main.cpp
+iostream
+-
+vector
+-
+tuple
+-
+string
+-
+

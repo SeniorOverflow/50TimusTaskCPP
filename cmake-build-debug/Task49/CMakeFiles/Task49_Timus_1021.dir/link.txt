@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Task49_Timus_1021.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Task49_Timus_1021.dir/objects.a @CMakeFiles\Task49_Timus_1021.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Task49_Timus_1021.dir/objects.a -Wl,--no-whole-archive -o Task49_Timus_1021.exe -Wl,--out-implib,libTask49_Timus_1021.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Task49_Timus_1021.dir\linklibs.rsp

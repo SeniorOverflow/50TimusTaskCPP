@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
-project(50TaskTimus_1260_CPP)
+project(Task16_Timus_1260)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(50TaskTimus_1260_CPP main.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
 
